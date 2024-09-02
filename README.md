@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Irving Armenta!
 
 ### About Me
-- 👨‍💻 **Frontend Engineer** at **Gaudiy Financial Lab**
+- 👨‍💻 **Frontend Engineer** at **Gaudiy Financial Labs**
 - 🌮 **Mexican**
 - 🎂 **34 years old**
 - 💻 **Knowledgeable in TypeScript and ReactJS development**
