@@ -3,7 +3,7 @@
 ### About Me
 - 👨‍💻 **Frontend Engineer** at **Gaudiy Financial Labs**
 - 🌮 **Mexican**
-- 🎂 **34 years old**
+- 🎂 **35 years old**
 - 💻 **Knowledgeable in TypeScript and ReactJS development**
 
 ### What I Do
